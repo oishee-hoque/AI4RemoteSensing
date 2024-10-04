@@ -8,10 +8,11 @@ This curated list highlights papers and open-source resources focused primarily 
 ## Dataset:
 - [ibm-nasa-geospatial/Prithvi-100M](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M):
   Prithvi is a first-of-its-kind temporal Vision transformer pre-trained by the IBM and NASA team on contiguous US Harmonised Landsat Sentinel 2 (HLS) data.
+- [Functional Map of the World - Sentinel-2 corresponding images](https://purl.stanford.edu/vg497cb6002): The Functional Map of the World - Sentinel-2 corresponding images (fMoW-Sentinel) dataset consists of image time series collected by the Sentinel-2 satellite, corresponding to locations from the Functional Map of the World (fMoW) dataset across several different times. 
 
 ## Multi Scale
 ## 2024
-### 1. Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery (SatMAE++)
+### 1. Rethinking Transformers Pre-training for Multi-Spectral Satellite Imagery (SatMAE++) (CVPR 24)
 **Authors**: Mubashir Noman, Muzammal Naseer, Hisham Cholakkal, Rao Muhammad Anwar, Salman Khan, Fahad Shahbaz Khan
 <details span>
 <summary><b>Abstract</b></summary>
