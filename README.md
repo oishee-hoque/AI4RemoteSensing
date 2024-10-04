@@ -5,6 +5,6 @@ This curated list highlights papers and open-source resources focused primarily 
 - [Dataset](#dataset)
 
 ## Dataset:
-- [ibm-nasa-geospatial/Prithvi-100M])(https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M)
+- [ibm-nasa-geospatial/Prithvi-100M]] (https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M)
   Prithvi is a first-of-its-kind temporal Vision transformer pre-trained by the IBM and NASA team on contiguous US Harmonised Landsat Sentinel 2 (HLS) data. 
 
